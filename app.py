@@ -13,7 +13,7 @@ from bokeh.models.widgets import Div
 st.set_page_config(
    page_title="Learnst - Predict Student's Learning Style",
    page_icon="🎓",
-   layout="wide",
+   layout="centered",
    initial_sidebar_state="auto")
 
 # declare variable
@@ -274,7 +274,6 @@ configurations = """
          box-shadow: none !important;
          border-right: inset;
          background-color: white !important;
-         width: 300px !important;
       }
       *,*:after,*:before{
          -webkit-box-sizing: border-box;
