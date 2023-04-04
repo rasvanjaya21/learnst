@@ -32,7 +32,7 @@ titl_effect ="""
          <span class="t_over"></span>
          <span class="t_over"></span>
          <div class="tilt-box">
-            <img src="https://ciknuk.site:443/media/e72bc3f961cefcbb111d0262b1449aa23ba4ae15f9059037c25195db.jpg" alt="0" style="max-width: 100%;">
+            <img src="https://raw.githubusercontent.com/rasvanjaya21/learnst/master/logo.jpg" alt="0" style="max-width: 100%;">
          </div>
       </div>
    </div>
